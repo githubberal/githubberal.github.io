@@ -19,7 +19,8 @@ font-size: em;
   font-size: 1.5em;
 }
 
-#para1 {
+#para2 {
   font-weight: 900;
-  font-size: 800;
+  font-family: "Covered by Your Grace", "Arial", sans-serif;
+  font-size: 5em;
 }
