@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+body {
+font-weight: 600;
+font-family: "Indie Flower", "Arial", sans-serif;
+font-size: em;
+}
+
+.h1 {
+  font-weight: 800;
+  font-family: "Covered by Your Grace", "Arial", sans-serif;
+  font-size: 2.5em;
+}
+
+.h2 {
+  font-weight: 700;
+  font-family: "Covered By Your Grace", "Arial", sans-serif;
+  font-size: 1.5em;
+}
+
+#para1 {
+  font-weight: 900;
+  font-size: 800;
+}
