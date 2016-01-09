@@ -4,17 +4,31 @@
 
 body {
   font-size: em;
+  font-family: "Droid Serif", serif;
+  color:#b35900;
+  text-shadow: .8px .8px #000000;
   background-image: url("Images/BeanBackground.jpg");
+  margin-left: 5%;
+  margin-top: 0%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  padding: 1%;
 }
 
 h1 {
 font-size: 4em;
+background-color: #ffcc00;
+text-shadow: 1.8px 1.8px #000000;
+
+
 }
 
 h2 {
   font-size: 2.5em;
+  text-shadow: 1.5px 1.5px #000000;
 }
 
 h3 {
 font-size: 1.5em;
+text-shadow: 1.3px 1.3px #000000;
 }
