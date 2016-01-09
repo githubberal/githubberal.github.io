@@ -29,7 +29,8 @@ h1 {
 font-size: 4em;
 text-shadow: 1.8px 1.8px #000000;
 text-align: center;
-background-image: url("Images/BeanFarmerNick.jpg");
+
+
 }
 
 h2 {
@@ -51,6 +52,22 @@ margin-bottom: 15px;
   min-width: 400px;
 }
 
+.headerrow {
+  overflow: auto;
+  min-width: 700px;
+}
+
+.headercolumn1 {
+  width: 30%;
+  float: left;
+
+}
+
+.headercolumn2 {
+  width: 50%;
+  float: left;
+
+}
 
 .row {
   margin-bottom: 10px;
