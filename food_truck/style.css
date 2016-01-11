@@ -90,7 +90,8 @@ margin-bottom: 15px;
 .column1 {
   width: 35%;
   float: left;
-
+  font-size: .8em;
+  text-shadow: .1px .1px #000000;
 }
 
 .column2 {
