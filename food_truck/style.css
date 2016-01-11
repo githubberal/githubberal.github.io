@@ -41,17 +41,15 @@ img {
 }
 
 h1 {
-font-size: 5.5em;
+font-size: 4.5em;
 text-shadow: 1.8px 1.8px #000000;
-
-
-
+text-align: left;
 
 
 }
 
 h2 {
-  font-size: 3.5em;
+  font-size: 3.2em;
   text-shadow: 1.5px 1.5px #000000;
   clear: both;
   margin-top: 30px;
@@ -74,20 +72,19 @@ margin-bottom: 15px;
 
 .headerrow {
   overflow: auto;
-  min-width: 700px;
+  min-width: 1000px;
 }
 
 .headercolumn1 {
-  width: 30%;
+  width: 20%;
   float: left;
-  min-width: 300px;
+
 }
 
 .headercolumn2 {
-  width: 50%;
   float: left;
-  margin-left:5%;
-  padding: 20px;
+  margin-left:12%;
+  min-width: 650px;
 
 }
 
