@@ -29,6 +29,12 @@ p {
   overflow: auto;
 }
 
+.pmajor {
+  font-size: 2em;
+}
+
+
+
 img {
   float: left;
   padding-right: 5px;
@@ -45,7 +51,7 @@ text-align: center;
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 3.5em;
   text-shadow: 1.5px 1.5px #000000;
   clear: both;
   margin-top: 30px;
@@ -53,12 +59,14 @@ h2 {
 }
 
 h3 {
-font-size: 1.5em;
+font-size: 2em;
 text-shadow: 1.3px 1.3px #000000;
 clear: both;
 margin-top: 15px;
 margin-bottom: 15px;
 }
+
+
 
 #container {
   min-width: 400px;
@@ -98,6 +106,13 @@ margin-bottom: 15px;
   width: 40%;
   margin-left: 5%;
   float: left;
+}
+
+.column3 {
+  width: 30%;
+  margin-left: 5%;
+  float: left;
+  font-size: 1.5em;
 }
 
 #navlist {
