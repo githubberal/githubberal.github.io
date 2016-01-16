@@ -1,4 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 body {
   font-family: "Indie Flower";
+  background-color: #b3ffb3;
+}
+
+
+
+h1 {
+font-size: 4.5em;
+text-shadow: 1.8px 1.8px #000000;
+text-align: left;
+background-image: url("images/forest_floor.jpg");
+background-position: left;
+background-repeat: no-repeat;
+
+}
+
+h3 {
+font-size: 2em;
+text-shadow: 1.3px 1.3px #000000;
+
 }
