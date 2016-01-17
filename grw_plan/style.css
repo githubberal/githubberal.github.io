@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700);
 body {
-  font-family: "Indie Flower";
-  background-color: #b3ffb3;
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: #e7fee7;
 }
 
 header {
@@ -13,14 +13,13 @@ header {
 
 h1 {
 font-size: 4.5em;
-text-shadow: 1.8px 1.8px #000000;
 text-align: left;
-
+margin-left: 5%;
 
 }
 
 h3 {
 font-size: 2em;
-text-shadow: 1.3px 1.3px #000000;
-
+text-align: left;
+margin-left: 5%;
 }
