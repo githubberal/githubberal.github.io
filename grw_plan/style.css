@@ -9,6 +9,9 @@ body {
   color:#000000;
 }
 
+a {
+  color: #00004d;
+}
 
 h1 {
 font-size: 3.5em;
@@ -38,7 +41,7 @@ color:#000000;
 h4 {
   font-size: 1.5em;
   text-align: left;
-  margin-left: 5%;
+  margin-left: 0%;
   color:#000000;
   margin-top: 2.5%;
 }
@@ -54,6 +57,7 @@ h4 {
 
 .column1 {
   float: left;
+  margin-left: 0%;
 }
 
 .column2 {
@@ -62,6 +66,6 @@ h4 {
 }
 
 .column3 {
-  margin-left: 0%;
+  margin-left: 1.2%;
   float: left;
 }
