@@ -3,31 +3,31 @@
 body {
   font-family: "Source Sans Pro", sans-serif;
   background-color: #e7fee7;
+  margin-bottom: 5%;
 }
 
-header {
-  width: 1400px;
-  background-image: url("images/forest_floor.jpg");
-  background-position: left;
-  background-repeat: no-repeat;
-}
 
 h1 {
 font-size: 4.5em;
 font-family: "Jacques Francois", serif;
 color:#004d00;
 text-align: left;
-margin-left: 5%;
+margin-left: 3%;
+text-shadow: 1.1px 1.1px #000000;
 
 }
 
 h3 {
 font-size: 2em;
 text-align: left;
-margin-left: 5%;
+margin-left: 3%;
 color:#004d00;
 }
 
 .nav {
    margin-left: 1.1%;
+}
+
+.preface {
+  margin-left: 5%;
 }
