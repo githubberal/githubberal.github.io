@@ -50,3 +50,18 @@ h4 {
 .preface {
   margin-left: 5%;
 }
+
+.column1 {
+  float: left;
+  margin-right: 5%;
+}
+
+.column2 {
+  margin-left: 20%;
+  float: left;
+}
+
+.column3 {
+  margin-left: 10%;
+  float: left;
+}
