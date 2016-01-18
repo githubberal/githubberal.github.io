@@ -38,8 +38,9 @@ color:#000000;
 h4 {
   font-size: 1.5em;
   text-align: left;
-  margin-left: 3%;
+  margin-left: 5%;
   color:#000000;
+  margin-top: 2.5%;
 }
 
 
@@ -53,15 +54,14 @@ h4 {
 
 .column1 {
   float: left;
-  margin-right: 5%;
 }
 
 .column2 {
-  margin-left: 20%;
+  margin-left:10%;
   float: left;
 }
 
 .column3 {
-  margin-left: 10%;
+  margin-left: 0%;
   float: left;
 }
