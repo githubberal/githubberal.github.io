@@ -53,7 +53,8 @@ h4 {
 }
 
 .preface {
-  margin-left: 5%;
+  margin-left: 2%;
+  float: left;
 }
 
 .column1 {
