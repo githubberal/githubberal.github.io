@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Jacques+Francois);
 body {
   font-family: "Source Sans Pro", sans-serif;
-  font-size: 1.8em;
+  font-size: 1.5em;
   background-color: #e7fee7;
   margin-bottom: 5%;
   padding: 1px;
@@ -80,3 +80,7 @@ h5 {
   margin-left: 1.2%;
   float: left;
 }
+
+.column4 {
+  margin-left:4%;
+  float: left;
