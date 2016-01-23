@@ -18,36 +18,18 @@
 
   <div class="container">
 
-    <div class="row1">
+    <div class="row row1">
+      <div class="col-md-2 column1">
+        <a href="http://www.geneseeriverwilds.com"><img src="images/grwimg.jpg" class="hidden-sm hidden-xs" alt="GRW Logo"></a>
+      </div>
 
-      <div class="col-md-12 col-sm-8">
+      <div class="col-md-10 col-sm-8">
         <h1 id="top">Genesee River Wilds Plan</h1>
-        <h2>Restore, protect, and enjoy the upper Genesee River by
-          <br>combining conservation, recreation, and business.</h2>
+        <h2>Restore, protect, and enjoy the upper Genesee River by combining conservation, recreation, and business.</h2>
       </div>
 
 
     </div>
-
-
-    <div class="row">
-        <ul class="nav nav-tabs">
-          <li role="presentation" class="active"><a href="index.html" class="nava">Home</a></li>
-          <li role="presentation"><a href="grwp_preface.html" class="nava">About</a></li>
-          <li role="presentation"><a href="grwp_exec_sum.html" class="nava">Executive Summary</a></li>
-          <li role="presentation"><a href="grwp_river.html" class="nava">The River</a></li>
-          <li role="presentation"><a href="grwp_conservation.html" class="nava">Strategy</a></li>
-          <li role="presentation"><a href="grwp_buffers.html" class="nava">Buffers</a></li>
-          <li role="presentation"><a href="grwp_blueway.html" class="nava">Blueway</a></li>
-          <li role="presentation"><a href="grwp_greenways.html" class="nava">Greenways</a></li>
-          <li role="presentation"><a href="grwp_parks.html" class="nava">Parks</a></li>
-          <li role="presentation"><a href="grwp_education.html" class="nava">Education</a></li>
-          <li role="presentation"><a href="grwp_long_range.html" class="nava">Long-Range</a></li>
-          <li role="presentation"><a href="grwp_resources.html" class="nava">Resources</a></li>
-          <li role="presentation"><a href="grwp_partners.html" class="nava">Work with Us</a></li>
-
-        </ul>
-      </div>
 
 
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -93,7 +75,24 @@
     </div>
 
 
+    <div class="row">
+        <ul class="nav nav-tabs">
+          <li role="presentation" class="active"><a href="index.html">Home</a></li>
+          <li role="presentation"><a href="grwp_preface.html">About</a></li>
+          <li role="presentation"><a href="grwp_exec_sum.html">Executive Summary</a></li>
+          <li role="presentation"><a href="grwp_river.html">The River</a></li>
+          <li role="presentation"><a href="grwp_conservation.html">Strategy</a></li>
+          <li role="presentation"><a href="grwp_buffers.html">Buffers</a></li>
+          <li role="presentation"><a href="grwp_blueway.html">Blueway</a></li>
+          <li role="presentation"><a href="grwp_greenways.html">Greenways</a></li>
+          <li role="presentation"><a href="grwp_parks.html">Parks</a></li>
+          <li role="presentation"><a href="grwp_education.html">Education</a></li>
+          <li role="presentation"><a href="grwp_long_range.html">Long-Range</a></li>
+          <li role="presentation"><a href="grwp_resources.html">Resources</a></li>
+          <li role="presentation"><a href="grwp_partners.html">Work with Us</a></li>
 
+        </ul>
+      </div>
 
   <div class="row">
     <div class="col-md-10 col-sm-6 col-xs-4">
@@ -142,11 +141,10 @@
       </div>
 
       <div class="col-md-2 col-sm-2 hidden-xs column3">
-          <p><a href="http://www.geneseeriverwilds.com"><img src="images/grw_logo_120.jpg" alt="GRW Logo"></a></p>
+          <p><em>Appearance Below Does Not Constitute Legal Endorsement of this Plan</em></p>
+          <p><a href="http://www.geneseeriverwilds.com"><img src="images/grw_img_sm.jpg" alt="GRW Logo"></a></p>
           <p><a href="http://www.geneseeriverwilds.com"><strong>Genesee River Wilds, Inc. (Bill Hart, Pres.)</strong></a></p>
           <p><a href="https://www.facebook.com/GeneseeRiverWilds/"><strong>Genesee River Wilds on Facebook</strong></a></p>
-          <p>
-          <p><em>Appearance Below Does Not Constitute Legal Endorsement of this Plan</em></p>
           <p><a href="http://www.geneseevalleyconservancy.org/">Genesee Valley Conservancy</a></p>
           <p><a href="http://www.fogvg.org/">Friends of Genesee Valley Greenway</a></p>
           <p><a href="http://rochestercyclingalliance.org/">Rochester Cycling Alliance</a></p>
