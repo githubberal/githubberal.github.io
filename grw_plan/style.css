@@ -105,6 +105,11 @@ h5 {
   float: left;
 }
 
+.column5 {
+  margin-left:11%;
+  float: left;
+}
+
 .row1 {
   background-image: url("images/forest_floor_green.jpg");
   margin-right: 0%;
